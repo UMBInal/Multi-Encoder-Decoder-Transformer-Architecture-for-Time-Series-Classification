@@ -1,3 +1,4 @@
+## Written by Inal Mashukov
 ## MoE gating model
 from tensorflow.keras import layers, Model
 import tensorflow as tf
