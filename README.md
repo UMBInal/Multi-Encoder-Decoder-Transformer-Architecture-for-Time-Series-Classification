@@ -1,4 +1,4 @@
-# -Multi-Encoder-Decoder-Transformer-Architecture-for-Time-Series-Classification
+# Multi-Encoder-Decoder-Transformer-Architecture-for-Time-Series-Classification
 Written by Mr. Inal Mashukov. 
 
 MEDT Transformer Architecture for the paper:
